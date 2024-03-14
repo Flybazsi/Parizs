@@ -16,10 +16,15 @@ body {
 h1 {
     padding-top: 30px;
     margin-top: 0px;
+    text-align: center;
+    font-size: 48px;
 }
-
+#fejléc{
+    background-image: url(notredame.jpg);
+    height: 200px;
+}
 #latnivalok {
-    background-image: url('diadaliv.jpg');
+    background-image: url(diadaliv.jpg);
     min-height: 500px;
     text-align: justify;
     padding: 5px;
